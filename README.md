@@ -29,3 +29,4 @@ Contributions welcome, send PRs.
 ## License
 
 [MIT](https://github.com/viters/azurite-helm-chart/blob/gh-pages/LICENSE).
+
